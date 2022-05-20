@@ -9,6 +9,7 @@ JobSeeker::JobSeeker()
   strcpy(qualifications, " ");
 }
 
+
 JobSeeker::JobSeeker(char ID[10], int jAge, char qual[50])
 {
   strcpy(jobSeekerID, ID);
