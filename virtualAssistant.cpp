@@ -7,6 +7,7 @@ VirtualAssistant::VirtualAssistant()
   strcpy(assistantID, " ");
   strcpy(assistantName," ");
   strcpy(assistantType," ");
+  
 }
 
 VirtualAssistant::VirtualAssistant(char ID[15], char name[20], char type[20])
