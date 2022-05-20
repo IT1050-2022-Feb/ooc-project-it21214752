@@ -1,7 +1,7 @@
 //created by IT21214752
 #ifndef CLIENT_H
 #define CLIENT_H
-#define size 10
+#define size 20
 #include "User.h"
 #include "Job.h"
 #include "Agency.h"
