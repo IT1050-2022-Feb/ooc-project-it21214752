@@ -21,4 +21,5 @@ Admin::Admin(int rno1, int rno2, int rno3, int rno4){
 			reports[1] = new Report(rno2);
 			reports[2] = new Report(rno3);
 			reports[3] = new Report(rno4);
+  
 }
