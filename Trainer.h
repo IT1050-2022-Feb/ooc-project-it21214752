@@ -8,7 +8,8 @@ class Trainer
 	private:
 		int trainerID;
 		char trainerName[20];
-		
+
+
 	public:
 		Trainer();
     Trainer(int ID, char name[20]);
