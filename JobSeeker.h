@@ -9,6 +9,7 @@
 #include "medicalService.h"
 #include "Course.h"
 
+
 class Course;
 
 class JobSeeker : public User
