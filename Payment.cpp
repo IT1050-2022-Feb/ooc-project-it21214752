@@ -10,6 +10,7 @@ Payments::Payments()
   paymentAmount = 0;
 }
 
+
 Payments::Payments(int payID, char payType[10], char payDesc[50], int amount)
 {
   paymentID = payID;
