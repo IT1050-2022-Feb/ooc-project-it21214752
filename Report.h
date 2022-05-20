@@ -13,6 +13,7 @@ private:
   char reportDescription[50];
   Client *client;
 
+
 public : 
   Report();
   Report(char vrID[10], char vrName[20], char vrpw[30], char vrdes[50]);
