@@ -7,7 +7,9 @@
 #include "Trainer.h"
 #include "Payment.h"
 
+
 class Payments;
+
 
 class Course
 {
@@ -18,7 +20,8 @@ class Course
     Certificate *certify[size];
     JobSeeker *jobseeker[size];
     Payments *payment;
-    
+
+
 	public:
 		Course();
     Course(int cID, char cName[10], char cDescription[50]);
