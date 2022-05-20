@@ -8,6 +8,7 @@ ForeignJobSeeker::ForeignJobSeeker()
   strcpy(country , " ");
 }
 
+
 ForeignJobSeeker::ForeignJobSeeker(int passport, char fCountry[10])
 {
   passportNo = passport;
