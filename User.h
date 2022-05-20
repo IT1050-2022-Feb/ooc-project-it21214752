@@ -4,6 +4,7 @@
 #include "Payment.h"
 #include "virtualAssistant.h"
 
+
 class User
 {
 protected:
