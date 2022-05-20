@@ -10,6 +10,7 @@ private :
   char agencyType[30];
   char agencyDescription[50];
 
+
 public : 
   Agency();
   Agency(char agID[10], char agname[30], char agtype[30], char agdes[50]);
