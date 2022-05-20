@@ -17,6 +17,7 @@
 #include "Report.h"
 #include "Trainer.h"
 
+
 int main()
 {
   JobSeeker *jobSeeker1;
