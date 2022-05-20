@@ -13,6 +13,7 @@ private:
   char jobDescription[50];
   Client *clients;
 
+
 public:
   Job();
   Job(char j_ID[15], char j_name[20], char j_type[20], char j_des[50]);
