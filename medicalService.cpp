@@ -18,3 +18,4 @@ MedicalService:: MedicalService(char msID[10], char msName[20], char msType[20],
   strcpy(medicalType, msType);
   strcpy(medicalDescription,msdes);
 }
+
