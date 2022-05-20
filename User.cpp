@@ -10,6 +10,7 @@ User::User()
   strcpy(userType, " ");
 }
 
+
 User::User(char name[30], int telNo, char add[30], char type[10])
 {
   strcpy(userName, name);
