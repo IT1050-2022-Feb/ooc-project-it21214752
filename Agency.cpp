@@ -9,6 +9,7 @@ Agency :: Agency()
   strcpy(agencyDescription, " ");
 }
 
+
 Agency::Agency(char ID[10], char name[20], char type[30], char des[50])
 {
   strcpy(agencyID,ID);
