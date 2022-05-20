@@ -9,6 +9,7 @@ Course::Course()
   strcpy(courseDescription, " ");
 }
 
+
 Course::Course(int cID, char cName[10], char cDescription[50])
 {
   courseID = cID;
