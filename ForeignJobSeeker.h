@@ -3,6 +3,7 @@
 #define FOREIGNJOBSEEKER_H
 #include "JobSeeker.h"
 
+
 class ForeignJobSeeker : public JobSeeker
 {
 private:
