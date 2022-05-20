@@ -16,6 +16,7 @@ private :
 
 public : 
   VirtualAssistant();
+
   VirtualAssistant(char ID[15], char name[20], char type[20]);
   void accessUser( char userName[20]);
   void viewAssistant();
