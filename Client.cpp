@@ -8,6 +8,7 @@ Client::Client()
   strcpy(clientType," ");
 }
 
+
 Client::Client(char ID[10], char type[10])
 {
   strcpy(clientID, ID);
