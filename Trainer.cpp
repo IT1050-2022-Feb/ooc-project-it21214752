@@ -8,6 +8,7 @@ Trainer::Trainer()
   strcpy(trainerName , " ");
 }
 
+
 Trainer::Trainer(int ID, char name[20])
 {
   trainerID = ID;
