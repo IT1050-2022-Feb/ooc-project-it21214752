@@ -15,7 +15,6 @@ private :
 public : 
     Admin();
 		Admin(int rno1, int rno2, int rno3, int rno4);
-
 		void checkPayments(Payments *pay);
     void setAdmindetails(char ID[15], char name[20], char pw[20]);
   void displayAdmin();
