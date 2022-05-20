@@ -8,7 +8,8 @@ Report::Report()
   strcpy(reportName," ");
   strcpy(reportType, " ");
   strcpy(reportDescription," ");
-}
+} 
+
 
 Report::Report(char vrID[10], char vrName[20], char vrpw[30], char vrdes[50])
 {
